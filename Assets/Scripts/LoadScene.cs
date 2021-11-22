@@ -5,20 +5,23 @@ using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void LoadCantina()
     {
         SceneManager.LoadScene(1);
+    }
+
+    public void LoadCube()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    public void LoadLivingRoom()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    public void LoadMezzanine()
+    {
+        SceneManager.LoadScene(3);
     }
 }
