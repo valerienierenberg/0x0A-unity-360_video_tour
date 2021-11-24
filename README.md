@@ -1,4 +1,5 @@
 # 0x0A. Unity - 360 Video
+- *See latest Release with .apk and demo walkthrough video on right side of repository*
 - [Project Page](https://intranet.hbtn.io/projects/523)
 
 ## Learning Objectives
